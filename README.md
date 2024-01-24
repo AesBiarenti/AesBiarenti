@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kadir Şahnin A.K.A Kadirow</h1>
 <h3 align="center">A Software Engineer from Turkiye</h3>
 
-- 🔭 I’m currently working on Social Media App **Rate Frame**
+- 🔭 I’m currently working on Social Media App : **RateFrame**
 
-- 🌱 I’m currently learning **Rust, Nodejs,**
+- 🌱 I’m currently learning : **Rust, Nodejs,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
