@@ -1,97 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Github Profil</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            line-height: 1.6;
-            color: #333;
-            background-color: #f8f8f8;
-            margin: 20px;
-        }
+<h1 align="center">Hi 👋, I'm Kadir Şahnin A.K.A Kadirow</h1>
+<h3 align="center">A Software Engineer from Turkiye</h3>
 
-        header {
-            text-align: center;
-            margin-bottom: 20px;
-        }
+- 🔭 I’m currently working on Social Media App : **RateFrame - My Roles : Flutter**
 
-        h1 {
-            color: #0366d6;
-        }
+- 🌱 I’m currently learning : **Rust, Nodejs, Vuejs**
 
-        h3 {
-            color: #24292e;
-        }
+- How To Reach Me : **kadirsahinseng@gmail.com**
 
-        p {
-            margin-bottom: 10px;
-            color: #586069;
-        }
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kadir şahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadir şahin" height="30" width="40" /></a>
+<a href="https://fb.com/kadir şahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kadir şahin" height="30" width="40" /></a>
+</p>
 
-        .contact a {
-            text-decoration: none;
-            color: #0366d6;
-        }
-
-        .social-icons a {
-            margin-right: 10px;
-        }
-
-        .languages-tools img {
-            margin-right: 10px;
-            margin-bottom: 10px;
-            filter: grayscale(100%);
-            transition: filter 0.3s ease-in-out;
-        }
-
-        .languages-tools img:hover {
-            filter: grayscale(0%);
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1 align="center">Hi 👋, I'm Kadir Şahnin A.K.A Kadirow</h1>
-        <h3 align="center">A Software Engineer from Turkiye</h3>
-    </header>
-
-    <section>
-        <h3 align="left">About Me</h3>
-        <p align="left">I'm a passionate software engineer working on the RateFrame Social Media App using Flutter.</p>
-    </section>
-
-    <section>
-        <h3 align="left">Currently Working On</h3>
-        <p align="left">Social Media App: <strong>RateFrame</strong> - My Roles: <strong>Flutter</strong></p>
-    </section>
-
-    <section>
-        <h3 align="left">Learning</h3>
-        <p align="left">Currently learning: <strong>Rust, Nodejs, Vuejs</strong></p>
-    </section>
-
-    <section>
-        <h3 align="left">How To Reach Me</h3>
-        <p align="left">Email: <strong><a href="mailto:kadirsahinseng@gmail.com">kadirsahinseng@gmail.com</a></strong></p>
-    </section>
-
-    <section>
-        <h3 align="left">Connect with me</h3>
-        <p align="left" class="social-icons">
-            <a href="https://linkedin.com/in/kadir-sahin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-            <a href="https://facebook.com/kadir.sahin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-        </p>
-    </section>
-
-    <section>
-        <h3 align="left">Languages and Tools</h3>
-        <p align="left" class="languages-tools">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-            <!-- Diğer diller ve araçları ekleyebilirsiniz -->
-        </p>
-    </section>
-</body>
-</html>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
