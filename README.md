@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Social Media App : **RateFrame**
 
-- 🌱 I’m currently learning : **Rust, Nodejs,**
+- 🌱 I’m currently learning : **Rust, Nodejs, Vuejs**
 
 - How To Reach Me : **kadirsahinseng@gmail.com**
 
