@@ -2,8 +2,12 @@
 <h3 align="center">A Software Engineer from Turkiye</h3>
 
 - 🔭 I’m currently working on Social Media App : **RateFrame - My Roles : Flutter**
-
+  
+- 🌱 I’m currently using : **Flutter**
+  
 - 🌱 I’m currently learning : **Rust, Nodejs, Vuejs**
+
+
 
 - How To Reach Me : **kadirsahinseng@gmail.com**
 
