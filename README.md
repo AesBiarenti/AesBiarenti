@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kadir Şahnin A.K.A Kadirow</h1>
 <h3 align="center">A Software Engineer from Turkiye</h3>
 
-- 🔭 I’m currently working on Social Media App : **RateFrame**
+- 🔭 I’m currently working on Social Media App : **RateFrame - My Roles : Flutter**
 
 - 🌱 I’m currently learning : **Rust, Nodejs, Vuejs**
 
