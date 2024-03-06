@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kadir Şahin A.K.A Kadirow</h1>
-<h3 align="center">A Software Engineer from Turkiye. From Turkey to the universe</h3>
+<h3 align="center">A Software Engineer from Turkiye. From Turkiye to the universe</h3>
 
 - 🔭 I’m currently working on Social Media App : **RateFrame - My Role : Flutter**
   
