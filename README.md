@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Social Media App : **RateFrame - My Role : Flutter**
   
-- 🌱 I’m currently using : **Flutter**
+- 🌱 I’m currently using : **Flutter** **Vue-Nuxt**
   
 - 🌱 I’m currently learning : **Rust, Nodejs, Vuejs**
 
