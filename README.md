@@ -2,7 +2,7 @@
 ###
 ![UfSBSII](https://github.com/user-attachments/assets/2653802b-63ff-416f-b24c-3f5650a1c23c)
 ## 🌐 Socials:
-<a href="https://linkedin.com/in/kadir-sahin" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/kadir-şahin-519055220" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://twitter.com/KadirSahin_29" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" height="40" width="40" /></a>
 
 # 💻 Tech Stack:
