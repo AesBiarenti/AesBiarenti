@@ -16,7 +16,7 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AesBiarenti&layout=compact&theme=aura&hide_border=false&" alt="En çok kullandığım diller" />
 </p>
 ---
-[![](https://visitcount.itsvg.in/api?id=AesBiarenti&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
