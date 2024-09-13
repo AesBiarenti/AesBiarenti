@@ -1,4 +1,4 @@
-## 📫 İletişim:
+## 📫 Contact:
 - **Email:** kadirsahinseng@gmail.com
 ###
 ![UfSBSII](https://github.com/user-attachments/assets/2653802b-63ff-416f-b24c-3f5650a1c23c)
