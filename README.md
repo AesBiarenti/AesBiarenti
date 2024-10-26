@@ -1,5 +1,5 @@
 ## 📫 Contact:
-- **Email:** kadirsahinseng@gmail.com
+- **Email:** **kadirsahinseng@gmail.com**
 - I am currently using **Flutter** , **VueJs** ,**NuxtJs** , **Rust**
 ###
 ![does-his-job-cop](https://github.com/user-attachments/assets/20e8d47a-a786-4c46-8cb8-cf56a27b87d4)
