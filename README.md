@@ -1,4 +1,4 @@
-## KADİR ŞAHİN - FULL STACK DEV
+## FULL STACK DEV
 - Develop kit :  **Flutter** | **VueJs** | **NuxtJs** | **React Native** | **React** | **NodeJs** | **Firebase** | **Rust**
 ## 📫 Contact:
 - **Email:** **kadirsahinseng@gmail.com**
