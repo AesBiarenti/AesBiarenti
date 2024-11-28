@@ -1,7 +1,8 @@
 ## KADİR ŞAHİN - FULL STACK DEV
+- Develop kit **Flutter** | **VueJs** | **NuxtJs** | **React Native** | **React** | **NodeJs** | **Firebase** | **Rust**
 ## 📫 Contact:
 - **Email:** **kadirsahinseng@gmail.com**
-- I am currently using **Flutter**, **VueJs**, **NuxtJs**, **Rust**, **NodeJs**, **Firebase**
+
 ###
 ![does-his-job-cop](https://github.com/user-attachments/assets/20e8d47a-a786-4c46-8cb8-cf56a27b87d4)
 
