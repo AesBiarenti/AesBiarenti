@@ -1,3 +1,4 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 ## FULL STACK DEV
 - Develop kit :  **Flutter** | **VueJs** | **NuxtJs** | **Laravel** | **React Native** | **React** | **NodeJs** | **Firebase** | **Rust**
 ## 📫 Contact:
