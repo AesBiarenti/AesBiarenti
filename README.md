@@ -19,8 +19,9 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AesBiarenti&show_icons=true&theme=aura&hide_border=false&" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AesBiarenti&theme=aura&hide_border=false&" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AesBiarenti&layout=compact&theme=aura&hide_border=false&" alt="En çok kullandığım diller" />
-  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AesBiarenti)
+  
 </p>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AesBiarenti)
 ---
 
 
