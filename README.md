@@ -1,5 +1,6 @@
 
-## FULL STACK DEV ᵗʳʸⁱⁿᵍ ᵗᵒ ᵇᵉ
+## FULL STACK DEV
+ᵗʳʸⁱⁿᵍ ᵗᵒ ᵇᵉ 
 - Develop kit :  **Flutter** | **VueJs** | **NuxtJs** | **Laravel** | **React Native** | **React** | **NodeJs** | **Firebase** | **Rust**
 ## 📫 Contact:
 - **Email:** **kadirsahinseng@gmail.com**
