@@ -1,4 +1,4 @@
-ᵗʳʸⁱⁿᵍ ᵗᵒ ᵇᵉᶜᵒᵐᵉ ᵃ
+ᵗʳʸⁱⁿᵍ ᵗᵒ ᵇᵉᶜᵒᵐᵉ ᵃ ᵇᵉᵗᵗᵉʳ
 ## FULL STACK DEV
 
 - Develop kit :  **Flutter** | **VueJs** | **NuxtJs** | **Laravel** | **React Native** | **React** | **NodeJs** | **Firebase** | **Rust**
