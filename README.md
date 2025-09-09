@@ -13,6 +13,10 @@
 ## Socials:
 <a href="https://linkedin.com/in/kadir-şahin-519055220" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="40" width="40" /></a>
 
+<!--
+[![Aes Biarenti'nin GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=AesBiarenti&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/AesBiarenti)
+[![Aes Biarenti's GitHub stats](https://github-readme-stats.vercel.app/api?username=AesBiarenti&theme=algolia&show_icons=true)](https://github.com/AesBiarenti)
+-->
 <!-- 
 # 📊 GitHub Stats:
 <p align="left">
