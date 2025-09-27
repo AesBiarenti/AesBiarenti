@@ -25,9 +25,9 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AesBiarenti&layout=compact&theme=aura&hide_border=false&" alt="En çok kullandığım diller" />
   
 </p>
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AesBiarenti)
----
 -->
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AesBiarenti)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
