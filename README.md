@@ -1,7 +1,7 @@
 
 ᵗʳʸⁱⁿᵍ ᵗᵒ ᵇᵉᶜᵒᵐᵉ ᵃ ᵇᵉᵗᵗᵉʳ
 ## FULL STACK DEV
-- I am currently working on my Multi POS application.
+- I am currently working on my **Multi POS** application.
 - Develop kit :  **Flutter** | **NextJs** | **VueJs** | **NuxtJs** | **Laravel** | **React Native** | **React** | **NodeJs** | **Firebase** | **Rust**
 ## Contact:
 - **Email:** **kadirsahinseng@gmail.com**
