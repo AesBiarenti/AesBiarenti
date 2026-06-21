@@ -3,12 +3,12 @@
 ## FULL STACK DEV
 - I am currently working on my **Multi POS** application.
 - Develop kit :  **Flutter** | **NextJs** | **VueJs** | **NuxtJs** | **Laravel** | **React Native** | **React** | **NodeJs** | **Firebase** | **Rust**
-🚀 **My app is live on Google Play!**
+🚀 **My app is live on Google Play and App Store!**
 
 📱 **İlaç Vakti – Medication Reminder**  
 A Flutter-based medication reminder & tracking app that helps users manage their daily medication schedules reliably.
 
-👉 **Google Play:**  
+👉 **Downolad App:**  
 [https://play.google.com/store/apps/details?id=com.ilacvakti.app&hl=tr](https://ilacvakti.kadirsahin.dev/)
 ## Contact:
 - **Email:** **kadirsahinseng@gmail.com**
