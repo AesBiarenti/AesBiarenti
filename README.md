@@ -9,7 +9,7 @@
 A Flutter-based medication reminder & tracking app that helps users manage their daily medication schedules reliably.
 
 👉 **Google Play:**  
-https://play.google.com/store/apps/details?id=com.ilacvakti.app&hl=tr
+[https://play.google.com/store/apps/details?id=com.ilacvakti.app&hl=tr](https://ilacvakti.kadirsahin.dev/)
 ## Contact:
 - **Email:** **kadirsahinseng@gmail.com**
 
