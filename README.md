@@ -5,11 +5,15 @@
 - Develop kit :  **Flutter** | **NextJs** | **VueJs** | **NuxtJs** | **Laravel** | **React Native** | **React** | **NodeJs** | **Firebase** | **Rust**
 🚀 **My app is live on Google Play and App Store!**
 
-📱 **İlaç Vakti – Medication Reminder**  
+📱 **Med:Medication Reminder:**  
 A Flutter-based medication reminder & tracking app that helps users manage their daily medication schedules reliably.
 
-👉 **Downolad App:**  
-https://ilacvakti.kadirsahin.dev/
+📱 **Multi POS: Stock Menager:**  
+Barcode inventory, cash shifts, customer credit and business reports in one app for shops and small stores. Multi-language and currency.
+
+👉 **Downolad My Apps:**  
+- **Med:Medication Reminder:** https://ilacvakti.kadirsahin.dev/
+- **Multi POS: Stock Menager:** https://multipos.kadirsahin.dev/
 ## Contact:
 - **Email:** **kadirsahinseng@gmail.com**
 
